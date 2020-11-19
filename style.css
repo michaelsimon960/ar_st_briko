@@ -22,18 +22,18 @@
 
 
 .welcome-msg {
-    position: fixed;
+    position: relative;
     text-align: center;
-    margin: 55% 0% 0% 27%;
+    top: 65%;
     
 }
 
 
 .btn {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 35px;
+    font-size: 40px;
     color: #fff;
-    margin: 5px;
+    margin: 5px 10px;
     padding: 7px 22px;
     text-decoration: none;
     border: 1px solid coral;
