@@ -24,26 +24,34 @@
 .welcome-msg {
     position: relative;
     text-align: center;
-    top: 55%;
+    top: 70%;
+    
 }
 
 
 .btn {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 25px;
+    font-size: 40px;
     color: #fff;
     margin: 5px;
     padding: 7px 22px;
     text-decoration: none;
     border: 1px solid coral;
-    border-radius: 25px;
+    border-radius: 50px;
     background: coral;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.822);
+    
 }
 
 .btn:hover {
     transition: 0.5s;
     background: rgb(119, 69, 51);
     border: 1px solid rgb(119, 69, 51);
+}
+
+
+#background {
+    display: block;
 }
 
 
